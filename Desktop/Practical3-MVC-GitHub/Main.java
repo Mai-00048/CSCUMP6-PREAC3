@@ -14,7 +14,7 @@ public class Main {
         Controller1 c1 = new Controller1(model); // Create first controller
         Controller2 c2 = new Controller2(model); // Create second controller
         
-        //added by Mai
+        //added by Mai .H
         
         Controller1 c3 = new Controller1(model); // Create first controller
         Controller2 c4 = new Controller2(model); // Create second controller
