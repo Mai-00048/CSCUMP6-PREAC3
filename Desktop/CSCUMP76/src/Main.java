@@ -5,7 +5,7 @@ package mvcexample;
  * @author savi
  */
 // Launcher for application
-
+// Launcher for application
 public class Main {
    
     public static void main(String args[]) {
